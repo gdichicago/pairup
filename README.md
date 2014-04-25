@@ -1,11 +1,8 @@
-PairUp
-======
+# Pair up
 
-This repository powers pairuptocode.com, which hosts the exercises for PairUp events.
+Originally created by Girl Develop It San Francisco, this repo contains modified exercises for a pair up event.
 
-A PairUp is an event where people come, get paired up with people of their level, and hack on a project for a few hours.
-The goal is for them to learn something new, practice their skills, and experience pairing.
-It's based on an event series called Protonight.
+Below are the notes from the original SF event.
 
 
 How do you run a PairUp?
@@ -22,7 +19,3 @@ going out for lunch after.
 8.  Make sure that each pair has found a pairing station and figured out an appropriate exercise to work on in the first 15 minutes or so.
 9.  Keep walking around and checking to see if anyone has questions.
 10.  Put up a "Wall of Wisdom" with post-its, and encourage everyone to write up what they learn at the end of the PairUp.
-
-We are welcoming ideas to improve our event.  Please send us an email to gabriela.osu@gmail.com or tweet me at @EvaGZamudio
-
-![image](https://s3-us-west-1.amazonaws.com/pairuptocode/Screen+Shot+2013-11-26+at+5.14.28+PM.png)
